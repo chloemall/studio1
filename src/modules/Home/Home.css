@@ -1,0 +1,7 @@
+/* Report.css */
+.report-container {
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+  padding: 20px;
+  height: 100vh; /* Make sure it covers the whole viewport height */
+}

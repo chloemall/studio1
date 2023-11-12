@@ -1,0 +1,51 @@
+/* Report.css */
+.report-container {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    padding: 20px;
+    height: 100vh; /* Make sure it covers the whole viewport height */
+  }
+  
+  .profile-image {
+    position: absolute;
+    top: 20px; /* Adjust the positioning as needed */
+    right: 20px; /* Adjust the positioning as needed */
+  }
+  
+  .profile-image img {
+    width: 50px; /* Set the desired width for the profile image */
+    height: 50px; /* Set the desired height for the profile image */
+    border-radius: 50%; /* Make it a circle if desired */
+  }
+  .spacer {
+    height: 40px; /* Space between profile image and content */
+  }
+  
+  .content-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Space from profile image */
+  }
+  
+  .row-container {
+    display: flex;
+    background-color: #333; /* Dark grey background for the row */
+    padding: 20px;
+  }
+  
+  .left-corner {
+    flex: 2; /* Take up all available space on the left */
+    text-align: left;
+  }
+  
+  .right-corner {
+    flex: 2; /* Take up all available space on the right */
+    text-align: right;
+  }
+  
+  .icon-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 20px; /* Adjust margin for spacing between icons */
+  }

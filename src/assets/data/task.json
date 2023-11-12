@@ -1,0 +1,20 @@
+[
+  {
+    "taskID": "F8762",
+    "price": 33.99,
+    "title": "7801 Tanglewood Drive Elkton, MD 21921",
+    "status": "Delete"
+  },
+  {
+    "taskID": "A9245",
+    "price": 94.35,
+    "title": "81 High Point Dr. Greenwood, SC 29646",
+    "status": "Delete"
+  },
+  {
+    "taskID": "Y7902",
+    "price": 6.99,
+    "title": "8783 Wakehurst Road Champlin, MN 55316",
+    "status": "Delete"
+  }
+]
